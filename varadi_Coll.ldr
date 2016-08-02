@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: varadi_Coll.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -380 8 390 1 0 0 0 1 0 0 0 1 nagyPanelTrans.ldr
+1 0 780 8 -540 1 0 0 0 1 0 0 0 1 nagyPanelTrans.ldr
+1 0 200 8 -70 1 0 0 0 1 0 0 0 1 nagyPanelTrans_invert.ldr
+0

@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: panel_10_view.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -110 112 -120 1 0 0 0 1 0 0 0 1 panel_10_base.ldr
+1 0 220 112 20 1 0 0 0 1 0 0 0 1 panel_10_pure.ldr
+1 0 570 112 160 1 0 0 0 1 0 0 0 1 panel_10_trans.ldr
+0

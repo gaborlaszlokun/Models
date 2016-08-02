@@ -1,0 +1,11 @@
+0 Untitled
+0 Name: williams_blueprint.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 267 -68 160 1 0 0 0 0 1 0 -1 0 Williams.ldr
+1 0 147 52 48 -1 0 0 0 0 -1 0 -1 0 Williams.ldr
+1 0 -93 -68 160 0 0 1 -1 0 0 0 -1 0 Williams.ldr
+1 0 -93 -20 -32 0 0 1 0 1 0 -1 0 0 Williams.ldr
+0

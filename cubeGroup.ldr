@@ -1,0 +1,10 @@
+0 Untitled
+0 Name: cubeGroup.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -60 -64 340 1 0 0 0 1 0 0 0 1 cubePanel.ldr
+1 0 -30 -64 380 0 0 1 0 1 0 -1 0 0 cubePanel.ldr
+1 0 420 -64 1130 0 0 -1 0 1 0 1 0 0 cubePanel.ldr
+0

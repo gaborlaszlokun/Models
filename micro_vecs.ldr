@@ -1,0 +1,16 @@
+0 Untitled
+0 Name: micro_vecs.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 240 -9 -107.782 1 0 0 0 1 0 0 0 1 ikarus_280_bkv.ldr
+1 0 100 -9 15 1 0 0 0 1 0 0 0 1 ikarus_280_volan.ldr
+1 0 -28 -9 130 1 0 0 0 1 0 0 0 1 ikarus_260_bkv.ldr
+1 0 -138 -9 210 1 0 0 0 1 0 0 0 1 ikarus_260_volan.ldr
+1 0 -68 23 -40 1 0 0 0 1 0 0 0 1 car1.ldr
+1 0 -238 23 -40 1 0 0 0 1 0 0 0 1 car1.ldr
+1 0 -158 23 -30 1 0 0 0 1 0 0 0 1 car2.ldr
+1 0 -68 23 -150 1 0 0 0 1 0 0 0 1 car2.ldr
+1 0 -108 -1 170 -1 0 0 0 1 0 0 0 -1 car5.ldr
+0

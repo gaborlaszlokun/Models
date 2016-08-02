@@ -1,0 +1,12 @@
+0 Untitled
+0 Name: collec.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -160 -16 120 1 0 0 0 1 0 0 0 1 1982_renault.ldr
+1 0 220 -16 -200 1 0 0 0 1 0 0 0 1 1982_ferrari.ldr
+1 0 220 -16 120 1 0 0 0 1 0 0 0 1 1982_brabham_short.ldr
+1 0 30 -16 -40 1 0 0 0 1 0 0 0 1 1980_williams.ldr
+1 0 -160 -16 -200 1 0 0 0 1 0 0 0 1 1982_mclaren.ldr
+0

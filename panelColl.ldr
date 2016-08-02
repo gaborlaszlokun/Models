@@ -1,0 +1,19 @@
+0 Untitled
+0 Name: panelColl.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 220 -24 230 1 0 0 0 1 0 0 0 1 panel_beta.ldr
+1 0 220 -24 560 1 0 0 0 1 0 0 0 1 panel_beta.ldr
+1 0 -80 -116 -550 1 0 0 0 1 0 0 0 1 cubePanel.ldr
+1 0 -460 -116 -550 1 0 0 0 1 0 0 0 1 cubePanel.ldr
+1 0 550 -16 -500 1 0 0 0 1 0 0 0 1 fourPanelShortGW.ldr
+1 0 550 -16 -190 1 0 0 0 1 0 0 0 1 fourPanelShortGW.ldr
+1 0 -150 0 -140 1 0 0 0 1 0 0 0 1 panel_10_trans.ldr
+1 0 -150 0 400 1 0 0 0 1 0 0 0 1 panel_10_trans.ldr
+1 0 -240 -88 1530 0 0 -1 0 1 0 1 0 0 pikoTanTrans.ldr
+1 0 -240 -88 1100 0 0 -1 0 1 0 1 0 0 pikoTanTrans.ldr
+1 0 550 -96 980 1 0 0 0 1 0 0 0 1 gkPure.ldr
+1 0 550 -96 1330 1 0 0 0 1 0 0 0 1 gkPure.ldr
+0

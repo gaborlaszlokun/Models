@@ -1,0 +1,12 @@
+0 Untitled
+0 Name: panelLine.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 -1310 -24 -880 0 0 -1 0 1 0 1 0 0 panel_beta.ldr
+1 0 -550 -116 -250 1 0 0 0 1 0 0 0 1 cubePanel.ldr
+1 0 -70 -16 490 0 0 -1 0 1 0 1 0 0 fourPanelShortGW.ldr
+1 0 -260 0 -70 1 0 0 0 1 0 0 0 1 panel_10_trans.ldr
+1 0 320 -88 530 0 0 -1 0 1 0 1 0 0 pikoTanTrans.ldr
+0

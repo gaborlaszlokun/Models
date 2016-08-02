@@ -1,0 +1,12 @@
+0 Untitled
+0 Name: puskás.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 4 -120 64 0 0 0 -1 0 1 0 1 0 0 61409.dat
+1 4 -120 64 -20 0 0 -1 0 1 0 1 0 0 61409.dat
+1 4 -120 64 60 0 0 -1 0 1 0 1 0 0 61409.dat
+1 4 -118 64 85 0.258819 0 -0.965926 0 1 0 0.965926 0 0.258819 61409.dat
+1 4 -120 64 40 0 0 -1 0 1 0 1 0 0 61409.dat
+0
