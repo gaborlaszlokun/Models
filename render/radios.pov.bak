@@ -8,7 +8,7 @@
 
 #include "rad_def.inc"
 global_settings {
-  assumed_gamma 1.4
+  assumed_gamma 1.2
   max_trace_level LDRAW_MTL
   adc_bailout 0.01/2
   radiosity {
