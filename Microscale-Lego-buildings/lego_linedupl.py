@@ -12,13 +12,14 @@ for filename in os.listdir(os.curdir):
         text.close()
         legoList = lego.split("\n")
         if len(legoList) != len(list(set(legoList))):
+            print len(legoList), len(list(set(legoList)))
             final = ""
             legoList = sorted(list(set(legoList))) 
             for line in legoList:
                 if line != "":
                    final += line + "\n"    
        
-            print len(legoList), len(list(set(legoList)))
+            
             text = open(filename, "w")
             text.write(final)
             text.close()

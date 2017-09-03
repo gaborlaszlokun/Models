@@ -1,2663 +1,668 @@
-0 Untitled
-0 Name: karpat.ldr
+0
 0 Author: LDraw
-0 Unofficial Model
-0 Untitled
 0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
+0 Name: karpat.ldr
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
-1 297 -120 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+0 Unofficial Model
+0 Untitled
+1 1 -112 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -112 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 1 -112 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -120 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -128 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -152 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -16 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -16 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
 1 1 -16 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -160 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -40 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -56 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -64 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -64 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 -8 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -8 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 -88 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 104 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 128 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 128 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 136 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 136 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 160 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 1 160 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 168 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 1 168 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 176 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 1 176 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 32 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 1 32 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
 1 1 32 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 32 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 1 40 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 40 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 64 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 72 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 8 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 1 80 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -108 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -144 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -144 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -148 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -152 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -152 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -16 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -16 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -160 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -160 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -188 -102 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -110 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -118 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -126 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -134 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -14 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -142 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -150 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -158 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -166 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -174 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -182 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -190 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -198 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -206 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -214 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -22 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -222 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -230 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -238 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -246 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -254 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -262 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -270 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -278 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -286 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -294 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -30 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -302 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -310 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -318 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -326 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -334 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -342 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -350 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -358 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -366 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -38 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -46 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -54 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -6 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -62 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -70 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -78 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -86 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 -94 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 10 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 18 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 2 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -188 26 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -28 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -40 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -40 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -48 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -48 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -56 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -56 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -64 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -64 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 -68 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 -8 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -8 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -88 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 -96 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 -96 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 0 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 104 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 104 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 12 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 128 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 128 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 132 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 136 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 136 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 144 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 144 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
 1 28 144 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 192 14 10 0 -1 0 1 0 0 0 0 1 3068b.dat
-1 28 192 -26 10 0 -1 0 1 0 0 0 0 1 3068b.dat
-1 28 192 -66 10 0 -1 0 1 0 0 0 0 1 3068b.dat
+1 28 172 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
 1 28 192 -106 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -146 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -186 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -226 10 0 -1 0 1 0 0 0 0 1 3068b.dat
+1 28 192 -26 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -266 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -306 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 192 -346 10 0 -1 0 1 0 0 0 0 1 3068b.dat
-1 1 104 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 4 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 32 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -36 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 32 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -76 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 32 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -116 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 192 -66 10 0 -1 0 1 0 0 0 0 1 3068b.dat
+1 28 192 14 10 0 -1 0 1 0 0 0 0 1 3068b.dat
 1 28 32 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -156 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -136 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 32 -16 0 0 -1 0 0 0 1 -1 0 0 3005.dat
 1 28 32 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -196 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -176 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 28 32 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -236 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -216 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 28 32 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -276 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -256 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 28 32 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 104 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -316 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -296 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -128 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 160 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 152 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 184 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-1 297 -120 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 -112 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 70 -136 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 -104 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 1 -128 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -120 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -112 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -48 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 0 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -40 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -8 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -16 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -40 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -8 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -16 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 48 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 8 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 40 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 64 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 72 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 80 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 160 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 168 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 176 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 32 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 8 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 40 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
 1 28 32 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 96 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 144 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 172 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 132 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 92 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 32 -56 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 32 -96 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 32 24 0 0 -1 0 0 0 1 -1 0 0 3005.dat
+1 28 40 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 40 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 48 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 48 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
 1 28 52 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 12 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -28 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -68 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -108 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -148 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -366 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -358 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -350 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -342 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -334 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -326 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -318 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -310 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -302 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -294 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -286 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -278 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -270 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -262 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -254 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -246 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -238 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -230 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -222 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -214 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -206 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -198 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -190 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -182 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -174 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -166 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -158 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -150 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -142 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -134 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -126 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -118 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -110 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -102 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -94 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -86 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -78 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -70 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -62 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -54 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -46 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -38 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -30 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -22 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -14 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 -6 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 2 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 10 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 18 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 28 -188 26 0 1 0 0 0 1 0 0 0 1 3023.dat
-1 1 104 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 136 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 128 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 104 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 136 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 128 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -96 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 28 -144 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -88 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -152 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -56 -356 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -64 -356 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-1 28 -88 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -316 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -276 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -236 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -196 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -156 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -116 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -76 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 -36 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -144 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
-1 1 -152 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 1 -160 4 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -160 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -152 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -56 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
-1 28 -64 -336 0 0 -1 0 0 0 1 -1 0 0 3005.dat
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
+1 28 8 -136 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -16 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -176 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -216 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -256 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -296 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -336 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -56 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 -96 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 8 24 0 0 -1 0 0 0 1 -1 0 0 3024.dat
+1 28 92 -374 0 1 0 0 0 1 0 0 0 1 3023.dat
+1 28 96 -106 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -146 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -186 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -226 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -26 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -266 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -306 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -346 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 -66 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 28 96 14 0 0 -1 0 1 0 0 0 0 1 3023.dat
+1 297 -112 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -112 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -120 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -120 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 -128 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
 1 297 -128 -336 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 72 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 80 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
-1 297 64 -336 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 297 168 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
-1 297 176 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 -128 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 -128 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
 1 297 160 -336 0 0 -1 0 0 0 1 -1 0 0 15573.dat
-1 70 56 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
-1 70 88 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 297 160 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 160 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 168 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 168 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 176 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 176 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 64 -136 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -16 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -176 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -216 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -256 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -296 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -336 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -56 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 -96 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 64 24 0 0 -1 0 0 0 1 -1 0 0 15573.dat
+1 297 72 -136 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -16 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -176 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -216 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -256 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -296 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -336 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -56 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 -96 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 72 24 0 0 -1 0 0 0 -1 1 0 0 3023.dat
+1 297 80 -136 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -16 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -176 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -216 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -256 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -296 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -336 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -56 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 -96 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 297 80 24 0 0 -1 0 0 0 -1 1 0 0 3794b.dat
+1 70 -104 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -104 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 -136 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
 1 70 152 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 152 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
 1 70 184 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: karpat.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0 Untitled
-0 Name: erkely_test.ldr
-0 Author: LDraw
-0 Unofficial Model
-0
+1 70 184 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 184 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 56 14 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -106 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -146 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -186 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -226 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -26 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -266 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -306 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -346 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 -66 0 0 -1 0 1 0 0 0 0 1 32028.dat
+1 70 88 14 0 0 -1 0 1 0 0 0 0 1 32028.dat

@@ -19,16 +19,29 @@ global_settings {
 sphere {
 	  <0,0,0>,10000          
 	  pigment {
-	    image_map { hdr "C:/Users/ASUS/Google Drive/Lego/probes/20100905-21_lp.hdr" once interpolate 2 map_type 1 }
+	    image_map { hdr "C:/Users/ASUS/Documents/Ldraw/Models/probes/20100905-21_lp.hdr" once interpolate 2 map_type 1 }
 	  }
 	  finish { ambient 1 diffuse 0 }
 	  hollow  
 	} 
+
 	
 light_source {
-	  <-5000,-5000,-5000>
+	  <5000,-5000,5000>  
+	  //<928,26,60>
 	  color rgb .4
-	  area_light 200, 200, 10, 10
+	  area_light 200, 200, 10, 10   
+	  adaptive 1
+	  jitter
+	  circular
+	  orient
+	}
+
+light_source {
+	  <-5000,-5000,5000>  
+	  //<928,26,60>
+	  color rgb .4
+	  area_light 200, 200, 10, 10   
 	  adaptive 1
 	  jitter
 	  circular
