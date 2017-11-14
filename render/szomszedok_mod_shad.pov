@@ -290,12 +290,12 @@ background { color rgb <LDXBgR,LDXBgG,LDXBgB> }
 #ifndef (LDXColor484) // Dark Orange
 #declare LDXColor484 = #if (version >= 3.1) material { #end
 	texture {
-		lg_dark_orange
+		lg_color_O02
 	}
 #if (version >= 3.1) } #end
 #declare LDXColor484_slope = #if (version >= 3.1) material { #end
 	texture {
-		lg_dark_orange
+		lg_color_O02
 		#if (LDXQual > 1) normal { bumps 0.3 scale 25*0.02 } #end
 	}
 #if (version >= 3.1) } #end
