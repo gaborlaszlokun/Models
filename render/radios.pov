@@ -28,7 +28,6 @@ sphere {
 	
 light_source {
 	  <5000,-5000,-5000>  
-	  //<928,26,60>
 	  color rgb .4
 	  area_light 200, 200, 10, 10   
 	  adaptive 1
@@ -39,7 +38,6 @@ light_source {
 
 light_source {
 	  <-5000,-5000,-5000>  
-	  //<928,26,60>
 	  color rgb .4
 	  area_light 200, 200, 10, 10   
 	  adaptive 1
